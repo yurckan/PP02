@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="5c818d3d4dd44c4e94ed632b328b1247" Name="Diagram1">
+        <EntityTypeShape EntityType="AgentDBModel.Address" Width="1.5" PointX="0.75" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AgentDBModel.Agent" Width="1.5" PointX="3" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="AgentDBModel.AgentPriorityHistory" Width="1.5" PointX="5.25" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AgentDBModel.AgentType" Width="1.5" PointX="0.75" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AgentDBModel.Director" Width="1.5" PointX="0.75" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="AgentDBModel.Material" Width="1.5" PointX="10" PointY="12.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AgentDBModel.MaterialCountHistory" Width="1.5" PointX="12.25" PointY="11.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AgentDBModel.MaterialType" Width="1.5" PointX="7.75" PointY="13.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AgentDBModel.Product" Width="1.5" PointX="6" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AgentDBModel.ProductCostHistory" Width="1.5" PointX="8.25" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="AgentDBModel.ProductMaterial" Width="1.5" PointX="12.25" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AgentDBModel.ProductSale" Width="1.5" PointX="8.25" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AgentDBModel.ProductType" Width="1.5" PointX="3.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AgentDBModel.Shop" Width="1.5" PointX="5.25" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AgentDBModel.Supplier" Width="1.5" PointX="12.25" PointY="17.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AgentDBModel.sysdiagrams" Width="1.5" PointX="10.75" PointY="3" IsExpanded="true" />
+        <AssociationConnector Association="AgentDBModel.FK_Agent_Address" ManuallyRouted="false" />
+        <AssociationConnector Association="AgentDBModel.FK_Agent_AgentType" ManuallyRouted="false" />
+        <AssociationConnector Association="AgentDBModel.FK_Agent_Director" ManuallyRouted="false" />
+        <AssociationConnector Association="AgentDBModel.FK_AgentPriorityHistory_Agent" ManuallyRouted="false" />
+        <AssociationConnector Association="AgentDBModel.FK_ProductSale_Agent" ManuallyRouted="false" />
+        <AssociationConnector Association="AgentDBModel.FK_Shop_Agent" ManuallyRouted="false" />
+        <AssociationConnector Association="AgentDBModel.FK_Material_MaterialType" ManuallyRouted="false" />
+        <AssociationConnector Association="AgentDBModel.FK_MaterialCountHistory_Material" ManuallyRouted="false" />
+        <AssociationConnector Association="AgentDBModel.FK_ProductMaterial_Material" ManuallyRouted="false" />
+        <AssociationConnector Association="AgentDBModel.FK_Product_ProductType" ManuallyRouted="false" />
+        <AssociationConnector Association="AgentDBModel.FK_ProductCostHistory_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="AgentDBModel.FK_ProductMaterial_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="AgentDBModel.FK_ProductSale_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="AgentDBModel.MaterialSupplier" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

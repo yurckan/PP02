@@ -1,0 +1,162 @@
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\obj\Debug\MainWindow.g.cs
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\obj\Debug\App.g.cs
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\obj\Debug\ProektsAgents_MarkupCompile.cache
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\obj\Debug\ProektsAgents_MarkupCompile.lref
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\obj\Debug\ProektsAgents_Content.g.cs
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\bin\Debug\ProektsAgents.exe.config
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\bin\Debug\ProektsAgents.exe
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\bin\Debug\ProektsAgents.pdb
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\bin\Debug\EntityFramework.dll
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\bin\Debug\EntityFramework.xml
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\obj\Debug\MainWindow.baml
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.g.resources
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.Properties.Resources.resources
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.csproj.GenerateResource.cache
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.exe
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.pdb
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\obj\Debug\Classes\PriortiyChange.g.cs
+C:\Users\anton\OneDrive\Рабочий стол\готовый проект\ProektsAgents\obj\Debug\Classes\PriortiyChange.baml
+C:\Users\User\Desktop\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\готовый проект\ProektsAgents\obj\Debug\Classes\PriortiyChange.g.cs
+C:\Users\User\Desktop\готовый проект\ProektsAgents\obj\Debug\EditProductWindow.g.cs
+C:\Users\User\Desktop\готовый проект\ProektsAgents\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\готовый проект\ProektsAgents\obj\Debug\App.g.cs
+C:\Users\User\Desktop\готовый проект\ProektsAgents\obj\Debug\ProektsAgents_Content.g.cs
+C:\Users\User\Desktop\готовый проект\ProektsAgents\obj\Debug\ProektsAgents_MarkupCompile.cache
+C:\Users\User\Desktop\готовый проект\ProektsAgents\obj\Debug\ProektsAgents_MarkupCompile.lref
+C:\Users\User\Desktop\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.exe
+C:\Users\User\Desktop\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.pdb
+C:\Users\User\Desktop\готовый проект\ProektsAgents\bin\Debug\ProektsAgents.exe.config
+C:\Users\User\Desktop\готовый проект\ProektsAgents\bin\Debug\ProektsAgents.exe
+C:\Users\User\Desktop\готовый проект\ProektsAgents\bin\Debug\ProektsAgents.pdb
+C:\Users\User\Desktop\готовый проект\ProektsAgents\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\готовый проект\ProektsAgents\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\готовый проект\ProektsAgents\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\готовый проект\ProektsAgents\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\готовый проект\ProektsAgents\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\готовый проект\ProektsAgents\obj\Debug\Classes\PriortiyChange.baml
+C:\Users\User\Desktop\готовый проект\ProektsAgents\obj\Debug\EditProductWindow.baml
+C:\Users\User\Desktop\готовый проект\ProektsAgents\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.g.resources
+C:\Users\User\Desktop\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.Properties.Resources.resources
+C:\Users\User\Desktop\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.csproj.GenerateResource.cache
+C:\Users\User\Desktop\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.csproj.CopyComplete
+C:\Users\User\Desktop\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.csproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.csproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.csproj.SuggestedBindingRedirects.cache
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\obj\Debug\Classes\PriortiyChange.g.cs
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\obj\Debug\EditProductWindow.g.cs
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\obj\Debug\MainWindow.g.cs
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\obj\Debug\App.g.cs
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\obj\Debug\ProektsAgents_Content.g.cs
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\obj\Debug\ProektsAgents_MarkupCompile.cache
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\obj\Debug\ProektsAgents_MarkupCompile.lref
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.exe
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.pdb
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\bin\Debug\ProektsAgents.exe.config
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\bin\Debug\ProektsAgents.exe
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\bin\Debug\ProektsAgents.pdb
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\bin\Debug\EntityFramework.dll
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\bin\Debug\EntityFramework.xml
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\obj\Debug\Classes\PriortiyChange.baml
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\obj\Debug\EditProductWindow.baml
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\obj\Debug\MainWindow.baml
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.g.resources
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.Properties.Resources.resources
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.csproj.GenerateResource.cache
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\obj\Debug\ProektsAgents.csproj.CopyComplete
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\готовый проект\ProektsAgents\obj\Debug\App.baml
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.csproj.SuggestedBindingRedirects.cache
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\Classes\PriortiyChange.g.cs
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\EditProductWindow.g.cs
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\MainWindow.g.cs
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\App.g.cs
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents_Content.g.cs
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents_MarkupCompile.cache
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents_MarkupCompile.lref
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.exe
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.pdb
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\ProektsAgents.exe.config
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\ProektsAgents.exe
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\ProektsAgents.pdb
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\EntityFramework.dll
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\EntityFramework.xml
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\App.baml
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\Classes\PriortiyChange.baml
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\EditProductWindow.baml
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\MainWindow.baml
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.g.resources
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.Properties.Resources.resources
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.csproj.GenerateResource.cache
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.csproj.CopyComplete
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Уп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.csproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\ProektsAgents.exe.config
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\ProektsAgents.exe
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\ProektsAgents.pdb
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\EntityFramework.dll
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\EntityFramework.xml
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.csproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.csproj.SuggestedBindingRedirects.cache
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\Classes\PriortiyChange.g.cs
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\EditProductWindow.g.cs
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\MainWindow.g.cs
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\App.g.cs
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents_Content.g.cs
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents_MarkupCompile.cache
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents_MarkupCompile.lref
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\App.baml
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\Classes\PriortiyChange.baml
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\EditProductWindow.baml
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\MainWindow.baml
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.g.resources
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.Properties.Resources.resources
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.csproj.GenerateResource.cache
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.csproj.CopyComplete
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.exe
+C:\Users\Руслан\Desktop\Выгрузи 1 (2)\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.pdb
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\ProektsAgents.exe.config
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\ProektsAgents.exe
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\ProektsAgents.pdb
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\EntityFramework.dll
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\EntityFramework.xml
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.csproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.csproj.SuggestedBindingRedirects.cache
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\Classes\PriortiyChange.g.cs
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\EditProductWindow.g.cs
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\MainWindow.g.cs
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\App.g.cs
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents_Content.g.cs
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents_MarkupCompile.cache
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents_MarkupCompile.lref
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\App.baml
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\Classes\PriortiyChange.baml
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\EditProductWindow.baml
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\MainWindow.baml
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.g.resources
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.Properties.Resources.resources
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.csproj.GenerateResource.cache
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.csproj.CopyComplete
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.exe
+C:\Users\Руслан\Desktop\Выгрузи 13.12.21\Долги 2021\ПП.02 Янка\Пп 02 Брюханова\здача\Приятный шелест\ProektsAgents\obj\Debug\ProektsAgents.pdb

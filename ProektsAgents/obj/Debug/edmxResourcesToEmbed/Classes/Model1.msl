@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище AgentDBModelContainer" CdmEntityContainer="AgentDBEntities">
+    <EntitySetMapping Name="Address">
+      <EntityTypeMapping TypeName="AgentDBModel.Address">
+        <MappingFragment StoreEntitySet="Address">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="PostalCode" ColumnName="PostalCode" />
+          <ScalarProperty Name="Region" ColumnName="Region" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Street" ColumnName="Street" />
+          <ScalarProperty Name="HouseNumber" ColumnName="HouseNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Agent">
+      <EntityTypeMapping TypeName="AgentDBModel.Agent">
+        <MappingFragment StoreEntitySet="Agent">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="AgentTypeID" ColumnName="AgentTypeID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="AddressID" ColumnName="AddressID" />
+          <ScalarProperty Name="Priority" ColumnName="Priority" />
+          <ScalarProperty Name="DirectorID" ColumnName="DirectorID" />
+          <ScalarProperty Name="INN" ColumnName="INN" />
+          <ScalarProperty Name="KPP" ColumnName="KPP" />
+          <ScalarProperty Name="LogoImage" ColumnName="LogoImage" />
+          <ScalarProperty Name="Discount" ColumnName="Discount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AgentPriorityHistory">
+      <EntityTypeMapping TypeName="AgentDBModel.AgentPriorityHistory">
+        <MappingFragment StoreEntitySet="AgentPriorityHistory">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="AgentID" ColumnName="AgentID" />
+          <ScalarProperty Name="ChangeDate" ColumnName="ChangeDate" />
+          <ScalarProperty Name="PriorityValue" ColumnName="PriorityValue" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AgentType">
+      <EntityTypeMapping TypeName="AgentDBModel.AgentType">
+        <MappingFragment StoreEntitySet="AgentType">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Director">
+      <EntityTypeMapping TypeName="AgentDBModel.Director">
+        <MappingFragment StoreEntitySet="Director">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Surname" ColumnName="Surname" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Material">
+      <EntityTypeMapping TypeName="AgentDBModel.Material">
+        <MappingFragment StoreEntitySet="Material">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="CountInPack" ColumnName="CountInPack" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+          <ScalarProperty Name="CountInStock" ColumnName="CountInStock" />
+          <ScalarProperty Name="MinCount" ColumnName="MinCount" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Cost" ColumnName="Cost" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="MaterialTypeID" ColumnName="MaterialTypeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MaterialCountHistory">
+      <EntityTypeMapping TypeName="AgentDBModel.MaterialCountHistory">
+        <MappingFragment StoreEntitySet="MaterialCountHistory">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaterialID" ColumnName="MaterialID" />
+          <ScalarProperty Name="ChangeDate" ColumnName="ChangeDate" />
+          <ScalarProperty Name="CountValue" ColumnName="CountValue" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MaterialType">
+      <EntityTypeMapping TypeName="AgentDBModel.MaterialType">
+        <MappingFragment StoreEntitySet="MaterialType">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="DefectedPercent" ColumnName="DefectedPercent" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Product">
+      <EntityTypeMapping TypeName="AgentDBModel.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="ProductTypeID" ColumnName="ProductTypeID" />
+          <ScalarProperty Name="ArticleNumber" ColumnName="ArticleNumber" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="ProductionPersonCount" ColumnName="ProductionPersonCount" />
+          <ScalarProperty Name="ProductionWorkshopNumber" ColumnName="ProductionWorkshopNumber" />
+          <ScalarProperty Name="MinCostForAgent" ColumnName="MinCostForAgent" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductCostHistory">
+      <EntityTypeMapping TypeName="AgentDBModel.ProductCostHistory">
+        <MappingFragment StoreEntitySet="ProductCostHistory">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ProductID" ColumnName="ProductID" />
+          <ScalarProperty Name="ChangeDate" ColumnName="ChangeDate" />
+          <ScalarProperty Name="CostValue" ColumnName="CostValue" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductMaterial">
+      <EntityTypeMapping TypeName="AgentDBModel.ProductMaterial">
+        <MappingFragment StoreEntitySet="ProductMaterial">
+          <ScalarProperty Name="ProductID" ColumnName="ProductID" />
+          <ScalarProperty Name="MaterialID" ColumnName="MaterialID" />
+          <ScalarProperty Name="Count" ColumnName="Count" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductSale">
+      <EntityTypeMapping TypeName="AgentDBModel.ProductSale">
+        <MappingFragment StoreEntitySet="ProductSale">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="AgentID" ColumnName="AgentID" />
+          <ScalarProperty Name="ProductID" ColumnName="ProductID" />
+          <ScalarProperty Name="SaleDate" ColumnName="SaleDate" />
+          <ScalarProperty Name="ProductCount" ColumnName="ProductCount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductType">
+      <EntityTypeMapping TypeName="AgentDBModel.ProductType">
+        <MappingFragment StoreEntitySet="ProductType">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Shop">
+      <EntityTypeMapping TypeName="AgentDBModel.Shop">
+        <MappingFragment StoreEntitySet="Shop">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="AgentID" ColumnName="AgentID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Supplier">
+      <EntityTypeMapping TypeName="AgentDBModel.Supplier">
+        <MappingFragment StoreEntitySet="Supplier">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="INN" ColumnName="INN" />
+          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+          <ScalarProperty Name="QualityRating" ColumnName="QualityRating" />
+          <ScalarProperty Name="SupplierType" ColumnName="SupplierType" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="MaterialSupplier" TypeName="AgentDBModel.MaterialSupplier" StoreEntitySet="MaterialSupplier">
+      <EndProperty Name="Material">
+        <ScalarProperty Name="ID" ColumnName="MaterialID" />
+      </EndProperty>
+      <EndProperty Name="Supplier">
+        <ScalarProperty Name="ID" ColumnName="SupplierID" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

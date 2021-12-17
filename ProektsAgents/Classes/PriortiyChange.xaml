@@ -1,0 +1,28 @@
+﻿<Window x:Class="ProektsAgents.Classes.PriortiyChange"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProektsAgents.Classes"
+        mc:Ignorable="d"
+        Title="Приоритет агентов" WindowStyle="ToolWindow" Height="180" Width="400" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" FontFamily="Monotype Corsiva" FontSize="16">
+    <Grid>
+        <Grid HorizontalAlignment="Left">
+            <StackPanel >
+                <Button x:Name="Plus" Content="Увеличить" Margin="10,10,0,0" FontFamily="Monotype Corsiva" Width="95" Click="Plus_Click"/>
+                <Button x:Name="Minus" Content="Уменьшить" Margin="10,10,0,0" FontFamily="Monotype Corsiva" Width="95" Click="Minus_Click"/>
+            </StackPanel>
+        </Grid>
+        <StackPanel HorizontalAlignment="Right" Margin="10,0,0,0">
+            <Label x:Name="label1" Content="Увеличить приоритет агентов на..." HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontFamily="Monotype Corsiva" FontSize="20" Width="270"/>
+            <TextBox x:Name="CountTB" Height="30" Margin="10,10,0,0" Width="250" TextWrapping="Wrap" MaxLength="10" PreviewTextInput="OnPreviewTextInput" DataObject.Pasting="OnPasting"/>
+        </StackPanel>
+        
+        <StackPanel HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,20,10" Orientation="Horizontal">
+            <Button x:Name="SaveChangesBtn" Content="Сохранить" Margin="10,0,0,0" FontFamily="Monotype Corsiva" Click="SaveChangesBtn_Click"/>
+            <Button x:Name="CancelBtn" Content="Отмена" Margin="15,0,0,0" FontFamily="Monotype Corsiva" Width="81" Click="CancelBtn_Click"/>
+        </StackPanel>
+        
+
+    </Grid>
+</Window>

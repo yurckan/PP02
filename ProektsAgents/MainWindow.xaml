@@ -1,0 +1,68 @@
+﻿<Window x:Class="ProektsAgents.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProektsAgents"
+        mc:Ignorable="d"
+        Title="Приятный шелест" Height="600" Width="1000" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="White" FontFamily="Monotype Corsiva" Icon="Image/Приятный шелест.png">
+    <Grid>
+        <StackPanel>
+            <StackPanel Name="MenuSpan" Orientation="Horizontal" VerticalAlignment="Top" Height="60" Background="#C6D7FF">
+                <ComboBox x:Name="AgentTypeCmb" SelectedIndex="0" Height="40" IsEnabled="True" Width="230" Margin="20,10,0,0" BorderThickness="2" FontSize="22" SelectionChanged="AgentTypeCmb_SelectionChanged"/>
+                <TextBox x:Name="SearchTextBox" Height="40" Width="450" Margin="20,10,0,0" VerticalAlignment="Top" FontSize="22" TextChanged="SearchTextBox_TextChanged" />
+                <ComboBox x:Name="FilterCmb" Height="40" Width="230" BorderBrush="{x:Null}" Margin="20,10,0,0" FontSize="22" SelectionChanged="FilterCmb_SelectionChanged"/>
+            </StackPanel>
+            <ScrollViewer Margin="20,40,0,0" HorizontalAlignment="Left" Width="950" Height="390" VerticalAlignment="Top">
+                <ListBox x:Name="ProductListBox" SelectionMode="Multiple">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <Grid x:Name="SelectObjectCheckBox" Width="920">
+                                <Border BorderBrush = "#46B29D" BorderThickness = "1.5"></Border>
+                                <StackPanel Orientation="Horizontal">
+                                    <Image HorizontalAlignment="Left" Margin="20,20,0,0" Width="140" Height="140" VerticalAlignment="Top" Source="{Binding LogoImage}" Stretch="Fill"/>
+                                    <Grid Width="620">
+                                        <StackPanel Margin="5">
+                                            <TextBlock FontSize="20" VerticalAlignment="Top">
+                                                <TextBlock.Text>
+                                                    <MultiBinding StringFormat="{} {0}|{1}">
+                                                        <Binding Path="AgentType.Title"/>
+                                                        <Binding Path="Title"/>
+                                                    </MultiBinding>
+                                                </TextBlock.Text>
+                                            </TextBlock>
+                                            <TextBlock Text="{Binding Phone}"/>
+                                            <TextBlock Text="{Binding Priority, StringFormat=0. приоритет}"/>
+                                            <TextBlock Text="{Binding SoldProductCount}"/>
+                                        </StackPanel>
+                                    </Grid>
+                                    <Grid>
+                                        <StackPanel VerticalAlignment="Center">
+                                            <TextBlock Text="10%" VerticalAlignment="Center" FontSize="30" TextAlignment="Center"/>
+                                            <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                                                <CheckBox x:Name="CheckBox1" Margin="0,0,0,0" Height="20" Width="20" Click="CheckBox1_Click"/>
+                                                <Button x:Name="EditProductBtn" Content="Редактировать" Margin="0,0,0,0" VerticalAlignment="Bottom" Click="Btn_Click" />
+                                            </StackPanel>
+                                        </StackPanel>
+                                    </Grid>
+                                </StackPanel>
+                            </Grid>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </ScrollViewer>
+        </StackPanel>
+        <Grid Name="Navigation" Background="#C6D7FF" VerticalAlignment="Bottom" Height="50">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                <Button x:Name="AddProductBtn" Content="Добавить" Margin="20,0,0,0" Width="100" FontSize="22" Click="Btn_Click"/>
+                <Button x:Name="CostChangeBtn" Content="Изменить приоритет" Margin="20,0,0,0" Width="210" FontSize="22" Click="Btn_Click"/>
+                <Grid Width="370" Margin="10,0,0,0"/>
+                <Button x:Name="FirstPageBtn" Content="|&lt;" Margin="10,0,0,0" Width="28" Click="Btn_Click"/>
+                <Button x:Name="PreviousPageBtn" Content="&lt;" Margin="10,0,0,0" Width="28" Click="Btn_Click"/>
+                <Label x:Name="CountPagesLb" Margin="10,0,0,0" Width="60"/>
+                <Button x:Name="NextPageBtn" Content="&gt;" Margin="10,0,0,0" Width="28" Click="Btn_Click"/>
+                <Button x:Name="LastPageBtn" Content="&gt;|" Margin="10,0,0,0" Width="28" Click="Btn_Click"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>
